@@ -23,6 +23,18 @@
 - README.md
 
 # Setup Instructions:
+## Clone the Repository
+
+```bash
+git clone https://github.com/kartikeyajhamnani-017/MLOPS-task0.git
+cd mlops-task
+```
+## Create Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate
+
+```
 ## Install dependencies
 ```bash
 pip install -r requirements.txt
