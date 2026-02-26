@@ -1,7 +1,7 @@
-2026-02-22 17:02:57,283 - INFO - Job started
-2026-02-22 17:02:57,288 - INFO - Config loaded: seed=42, window=5, version=v1
-2026-02-22 17:02:57,302 - INFO - Data loaded: 1000 rows
-2026-02-22 17:02:57,308 - INFO - Rolling mean calculated with window=5
-2026-02-22 17:02:57,308 - INFO - Signals generated
-2026-02-22 17:02:57,311 - INFO - Metrics: signal_rate=0.503, rows_processed=1000
-2026-02-22 17:02:57,311 - INFO - Job completed successfully in 27ms
+2026-02-26 09:48:44,397 - INFO - Job started
+2026-02-26 09:48:44,401 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-26 09:48:44,433 - INFO - Data loaded: 10000 rows
+2026-02-26 09:48:44,441 - INFO - Rolling mean calculated with window=5
+2026-02-26 09:48:44,446 - INFO - Signals generated
+2026-02-26 09:48:44,446 - INFO - Metrics: signal_rate=0.5015, rows_processed=10000
+2026-02-26 09:48:44,451 - INFO - Job completed successfully in 50ms

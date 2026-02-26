@@ -61,10 +61,10 @@ docker run --rm mlops-task
 ```json
 {
   "version": "v1",
-  "rows_processed": 1000,
+  "rows_processed": 10000,
   "metric": "signal_rate",
-  "value": 0.503,
-  "latency_ms": 44,
+  "value": 0.5015,
+  "latency_ms": 91,
   "seed": 42,
   "status": "success"
 }
